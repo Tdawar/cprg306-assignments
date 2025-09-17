@@ -5,8 +5,10 @@ export default function StudentInfo() {
     <main>
       <h1>Name - Tushar Dawar</h1>
       <h3>
-        GitHub Link
-        <Link href="https://github.com/tushardawar/cprg306-assignments"></Link>
+        GitHub Link - 
+        <Link href="https://github.com/Tdawar/cprg306-assignments.git">
+        Click Me
+        </Link>
       </h3>
     </main>
   );
