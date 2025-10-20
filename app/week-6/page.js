@@ -9,7 +9,7 @@ export default function Page() {
       <div className="w-full max-w-3xl">
         <ItemList />
       </div>
-      <p className="italic w-full mt-20">Made By - Tushar Dawar</p>
+      <p className="italic w-full mt-20">Made By - Tushar Dawar </p>
     </main>
   );
 }
