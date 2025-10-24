@@ -14,7 +14,7 @@ export default function Page() {
 
   return (
     <main className="p-20 flex flex-col items-center text-center bg-gradient-to-t from-gray-600 to-gray-900 min-h-screen text-white">
-      <h1 className="text-3xl font-bold w-full mb-10">Shopping List</h1>
+      <h1 className="text-3xl font-bold w-full mb-10">Week 7 - Shopping List</h1>
       <div className="w-full max-w-md mb-10">
         <NewItem onAddItem={handleAddItem} />
       </div>
