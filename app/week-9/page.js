@@ -33,7 +33,7 @@ export default function Page() {
 
       {!user ? (
         <div className="flex flex-col items-center gap-6">
-          <p>Please sign in to continue.</p>
+          <p>Please sign in to continue...</p>
           <button
             onClick={handleLogin}
             className="px-6 py-2 bg-blue-600 hover:bg-blue-700 rounded"
@@ -51,7 +51,7 @@ export default function Page() {
             onClick={goToShoppingList}
             className="px-6 py-2 bg-green-600 hover:bg-green-700 rounded"
           >
-            Go to Shopping List
+          "Go to Shopping List"
           </button>
 
           <button
