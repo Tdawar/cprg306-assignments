@@ -51,7 +51,7 @@ export default function Page() {
             onClick={goToShoppingList}
             className="px-6 py-2 bg-green-600 hover:bg-green-700 rounded"
           >
-          "Go to Shopping List"
+            Go to Shopping List
           </button>
 
           <button
