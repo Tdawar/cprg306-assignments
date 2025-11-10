@@ -23,7 +23,7 @@ export default function Page() {
 
   return (
     <main className="p-20 flex flex-col items-center text-center bg-gradient-to-t from-gray-600 to-gray-900 min-h-screen text-white">
-      <h1 className="text-3xl font-bold w-full mb-10">Week 8 - Shopping List with Meal Ideas</h1>
+      <h1 className="text-3xl font-bold w-full mb-10">Week 9 - Authentication Demo</h1>
       <div className="flex w-full gap-10">
         <div className="w-1/2">
           <NewItem onAddItem={handleAddItem} />
